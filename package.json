@@ -1,0 +1,19 @@
+{
+  "name": "diesel-mangemnet-system",
+  "version": "1.0.0",
+  "description": "diesel management system for cmg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banuch/dms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banuch/dms/issues"
+  },
+  "homepage": "https://github.com/banuch/dms#readme"
+}
