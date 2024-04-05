@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/banuch/dms/issues"
   },
-  "homepage": "https://github.com/banuch/dms#readme"
+  "homepage": "https://github.com/banuch/dms#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
